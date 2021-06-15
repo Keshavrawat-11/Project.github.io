@@ -1,0 +1,13 @@
+.Ball:hover {
+  visibility: hidden;
+  opacity: 0;
+  display: none;
+  background-color: white;
+}
+
+.Balls:hover {
+  visibility: hidden;
+  opacity: 0;
+  display: none;
+  background-color: white;
+}
